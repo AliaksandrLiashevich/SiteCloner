@@ -1,0 +1,16 @@
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\bin\Debug\Downloader.exe.config
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\bin\Debug\Downloader.exe
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\bin\Debug\Downloader.pdb
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\bin\Debug\DonwloaderLogics.dll
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\bin\Debug\AngleSharp.dll
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\bin\Debug\DonwloaderLogics.pdb
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\bin\Debug\DonwloaderLogics.dll.config
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\bin\Debug\AngleSharp.xml
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\obj\Debug\Downloader.csprojAssemblyReference.cache
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\obj\Debug\Downloader.csproj.CoreCompileInputs.cache
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\obj\Debug\Downloader.csproj.CopyComplete
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\obj\Debug\Downloader.exe
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\obj\Debug\Downloader.pdb
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\My Resources\Epam Labs\SiteDownloader\Downloader\Downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
